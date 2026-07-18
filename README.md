@@ -128,19 +128,6 @@ To customize your own profile README, create a repository named exactly after yo
 
 ---
 
-## 🖼️ Screenshots
-
-> Screenshots will be added here as the profile and projects evolve.
-
-| Preview | Description |
-|:-------:|:------------|
-| ![Profile Placeholder](https://via.placeholder.com/800x400?text=GitHub+Profile+Screenshot) | GitHub profile page (placeholder) |
-| ![Project Placeholder](https://via.placeholder.com/800x400?text=Project+Screenshot) | Featured project preview (placeholder) |
-
-*Replace the placeholders above with real screenshots when available (for example, under an `assets/` folder).*
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Links |

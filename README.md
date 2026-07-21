@@ -115,11 +115,11 @@ const sumit = {
 <div align="center">
 
 <a href="https://github.com/sumittiwari1302">
-  <img src="https://streak-stats.demolab.com/?user=sumittiwari1302&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://streak-stats.vercel.app/?user=sumittiwari1302&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
 
 <a href="https://github.com/sumittiwari1302">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&bg_color=0D1117&color=5B21B6&line=00D9FF&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true" width="96%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&bg_color=0D1117&color=5B21B6&line=00D9FF&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true&cache=1" width="96%"/>
 </a>
 
 <a href="https://github.com/sumittiwari1302">

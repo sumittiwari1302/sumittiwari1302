@@ -1,193 +1,464 @@
+<!-- ============================================================
+     README.md — Sumit Tiwari | GitHub Profile
+     Theme : Modern Dark  ·  Blue + Purple Gradient
+     ============================================================ -->
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 1 — HERO
+     ───────────────────────────────────────────────────────────── -->
+
 <div align="center">
 
-# Hi, I'm Sumit Tiwari 👋
+<!-- Animated gradient header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=300&section=header&text=Sumit%20Tiwari&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20CS%20Student&descSize=20&descAlignY=55&descAlign=50" width="100%"/>
 
-### PW IOI Pune SOT | MSU | Frontend Developer
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Tiwari;Frontend+Developer+%7C+Open+Source+Contributor;React+Enthusiast+%7C+CS+Student;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
 
-**GitHub Profile README** — a living snapshot of who I am, what I'm learning, and the projects I build.
+<!-- Animated wave -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-sumittiwari1302-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sumit%20Tiwari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tiwari-b18701380/)
-[![Profile Views](https://komarev.com/ghpvc/?username=sumittiwari1302&style=for-the-badge&color=blue)](https://github.com/sumittiwari1302)
-
-[![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
+<!-- Badges row -->
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://komarev.com/ghpvc/?username=sumittiwari1302&label=Profile%20Views&color=5B21B6&style=for-the-badge" alt="Profile Views"/>
+</a>
+<a href="https://www.linkedin.com/in/sumit-tiwari-b18701380/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:sumittiwari1302@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About the Developer
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 2 — ABOUT ME
+     ───────────────────────────────────────────────────────────── -->
 
-| | |
-|:---|:---|
-| **Name** | Sumit Tiwari |
-| **Headline** | PW IOI Pune SOT \| MSU \| Frontend Developer |
-| **Location** | Pune Division, Maharashtra, India |
-| **Education** | B.Tech — Computer Systems Networking and Telecommunications, [PW Institute of Innovation (PW IOI)](https://www.linkedin.com/school/pw-ioi) |
-| **Also associated with** | Medhavi Skills University (MSU) |
-| **Current Role** | Event Coordinator at [RIFT](https://www.linkedin.com/company/rift-pwioi) |
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Meetzurp/Meetzurp/main/assets/wave.gif" width="35" alt="wave"/>
+  About Me
+</h2>
 
-### Short Bio
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-Hello, I am Sumit Tiwari. I am currently pursuing a B.Tech degree at PW IOI. I am enthusiastic about learning programming languages, AI/ML, Data Science, and Cybersecurity, and continuously developing my skills as a frontend developer.
-
-### Highlights
-
-- 🎓 B.Tech student at **PW Institute of Innovation (PW IOI), Pune**
-- 🧭 **Event Coordinator** at RIFT (open innovation hackathon by PW IOI)
-- 💻 Focused on **frontend development** with HTML, CSS, and JavaScript
-- 🌱 Exploring **C programming**, **AI/ML**, **Data Science**, and **Cybersecurity**
-- 🏅 IBM SkillsBuild certification: *Learn Programming with JavaScript*
-- 🏆 Participated in **RIFT '26** hackathon; team placed **3rd** in PW IOI Web Development Kick Start (HTML & CSS)
-
----
-
-## 🛠️ Skills
-
-| Category | Skills |
-|:---------|:-------|
-| **Frontend** | HTML, CSS (Cascading Style Sheets), JavaScript |
-| **Programming** | C, JavaScript, TypeScript |
-| **Interests** | Artificial Intelligence / Machine Learning, Data Science, Cybersecurity |
-| **Professional** | Event Coordination, Event Management, Communication, Problem Solving, Teamwork |
-
----
-
-## 🧰 Tech Stack
-
-```text
-Languages     : HTML · CSS · JavaScript · TypeScript · C · Markdown
-Focus Areas   : Frontend Development · Web Development · AI/ML · Data Science · Cybersecurity
-Platforms     : GitHub · GitHub Pages
-Tools         : Git · Markdown
+```javascript
+const sumit = {
+  pronouns: "He" | "Him",
+  location: "Pune, Maharashtra, India",
+  education: "B.Tech CSE — PW IOI, Pune",
+  currentRole: "Event Coordinator @ RIFT",
+  focus: [
+    "Frontend Development",
+    "Open Source Contribution",
+    "AI / ML Exploration",
+  ],
+  funFact: "I turn ideas into pixel-perfect interfaces."
+};
 ```
 
+</td>
+<td width="50%" valign="top">
+
+- 🎓 B.Tech student at **PW Institute of Innovation (PW IOI), Pune**
+- 🧭 **Event Coordinator** at RIFT — open innovation hackathon
+- 💻 Focused on **frontend development** with HTML, CSS & JavaScript
+- 🌱 Exploring **AI/ML**, **Data Science**, and **Cybersecurity**
+- 🏅 **IBM SkillsBuild** certified — *Learn Programming with JavaScript*
+- 🏆 Placed **3rd** in PW IOI Web Development Kick Start (HTML & CSS)
+- ⭐ Active **Open Source Contributor** — collaborating with developers worldwide
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 3 — TECH STACK
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+#### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+#### Frameworks & Libraries
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+#### Tools & Platforms
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+#### Exploring
+
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data_Science-20639B?style=for-the-badge&logo=jupyter&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
 </div>
 
 ---
 
-## ✨ Features
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 4 — GITHUB STATS
+     ───────────────────────────────────────────────────────────── -->
 
-This repository powers the **GitHub profile README** for [@sumittiwari1302](https://github.com/sumittiwari1302).
-
-- 📌 Clean, professional profile introduction
-- 🔗 Quick access to LinkedIn and GitHub
-- 📊 Skills and tech stack overview
-- 🚀 Highlighted projects and learning journey
-- 🤝 Clear contributing and contact guidelines
-- 📱 Readable on desktop and mobile GitHub views
-
----
-
-## 📁 Project Structure
-
-```text
-sumittiwari1302/
-└── README.md          # GitHub profile README (this file)
-```
-
-> This is a special GitHub profile repository (`username/username`). Its `README.md` is displayed on the public GitHub profile page.
-
----
-
-## 📦 Installation
-
-Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/sumittiwari1302/sumittiwari1302.git
-cd sumittiwari1302
-```
-
-No build tools or dependencies are required — this project is Markdown-only.
-
----
-
-## 🚀 Usage
-
-1. Open `README.md` in any Markdown previewer or editor.
-2. After pushing changes to the `main` branch, visit the profile to see updates live:
-   - **Profile:** [https://github.com/sumittiwari1302](https://github.com/sumittiwari1302)
-   - **Repository:** [https://github.com/sumittiwari1302/sumittiwari1302](https://github.com/sumittiwari1302/sumittiwari1302)
-
-To customize your own profile README, create a repository named exactly after your GitHub username and add a `README.md` in the root.
-
----
-
-## 📂 Featured Projects
-
-| Project | Description | Links |
-|:--------|:------------|:------|
-| **math-gravity-painter** | Interactive TypeScript project hosted on GitHub Pages | [Repo](https://github.com/sumittiwari1302/math-gravity-painter) · [Live](https://sumittiwari1302.github.io/math-gravity-painter/) |
-| **UI-portfolio** | UI portfolio repository | [Repo](https://github.com/sumittiwari1302/UI-portfolio) |
-| **rift** | Repository related to RIFT | [Repo](https://github.com/sumittiwari1302/rift) |
-
----
-
-## 🔮 Future Improvements
-
-- [ ] Add real screenshots and media assets for the profile and projects
-- [ ] Expand project showcases with short write-ups and tech details
-- [ ] Add a contribution graph / stats widgets (optional)
-- [ ] Publish more frontend and learning projects
-- [ ] Deepen skills in AI/ML, Data Science, and Cybersecurity
-- [ ] Add a license file if this repository is opened for broader reuse
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and feedback are welcome.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/your-idea`)
-3. Commit your changes (`git commit -m "Add: your idea"`)
-4. Push to the branch (`git push origin feature/your-idea`)
-5. Open a Pull Request
-
-Please keep changes relevant to the profile README (content accuracy, formatting, accessibility, and clarity).
-
----
-
-## 📄 License
-
-No license file is currently included in this repository. All rights are reserved by the repository owner unless a license is added later.
-
-If you reuse ideas from this README for your own profile, attribution is appreciated.
-
----
-
-## 📬 Contact
-
-| Platform | Link |
-|:---------|:-----|
-| **LinkedIn** | [linkedin.com/in/sumit-tiwari-b18701380](https://www.linkedin.com/in/sumit-tiwari-b18701380/) |
-| **GitHub** | [github.com/sumittiwari1302](https://github.com/sumittiwari1302) |
-
-> Email is not listed here because no public email address was available on the LinkedIn profile or in this repository.
-
----
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
-**Thanks for visiting!** ⭐
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=sumittiwari1302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B21B6&icon_color=00D9FF&text_color=C9D1D9" width="49%"/>
 
-*Open to learning, collaboration, and building meaningful projects.*
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiwari1302&theme=tokyonight&hide_border=true&background=0D1117&stroke=5B21B6&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%"/>
 
-[LinkedIn](https://www.linkedin.com/in/sumit-tiwari-b18701380/) · [GitHub](https://github.com/sumittiwari1302)
+</div>
+
+<div align="center">
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiwari1302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B21B6&text_color=C9D1D9" width="49%"/>
+
+<!-- Profile Summary Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumittiwari1302&theme=tokyonight" width="49%"/>
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&bg_color=0D1117&color=5B21B6&line=00D9FF&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 5 — OPEN SOURCE
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">🌐 Open Source</h2>
+
+<div align="center">
+
+I actively contribute to open-source projects on GitHub and enjoy collaborating with developers worldwide.
+My open-source journey includes contributing to multiple repositories, reviewing pull requests, and helping maintain codebases.
+I believe in the power of community-driven development and love learning from other developers' code and approaches.
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sumittiwari1302&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=20&margin-h=20)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 6 — FEATURED PROJECTS
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Kepler
+
+> **AI-Powered Autonomous Space Traffic Management Platform**
+
+An intelligent platform that leverages AI to manage space traffic autonomously, featuring real-time tracking and predictive analytics.
+
+**Tech:** TypeScript · Python · Docker
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/Kepler)
+[![Live](https://img.shields.io/badge/Live_Demo-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://keplerai.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 MediFlow
+
+> **AI-Powered Medical Logistics Platform**
+
+Smart resource allocation ensuring medicines are efficiently distributed based on real-time needs with predictive forecasting and intelligent alerts.
+
+**Tech:** Dart · JavaScript · Firebase
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/MediFlow)
+[![Live](https://img.shields.io/badge/Live_Demo-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://mediflow-92e6f.web.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 CampusConnect
+
+> **Campus Platform for Members**
+
+A high-performance, responsive frontend application for club or gym members to manage memberships and track activity.
+
+**Tech:** TypeScript · PLpgSQL · CSS
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/CampusConnect)
+[![Live](https://img.shields.io/badge/Live_Demo-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://campus-connect-ecsoc.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Math Gravity Painter
+
+> **Interactive Creative TypeScript Project**
+
+A fun interactive project combining math and visual art, deployed on GitHub Pages.
+
+**Tech:** TypeScript · HTML · CSS · JavaScript
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/math-gravity-painter)
+[![Live](https://img.shields.io/badge/Live_Demo-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://sumittiwari1302.github.io/math-gravity-painter/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 DevLink
+
+> **Open-Source Developer Collaboration Platform**
+
+Connect, collaborate, and build projects together. Discover opportunities, showcase your work, and grow your network.
+
+**Tech:** TypeScript · Python · CSS
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/devlink)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦎 Forkling
+
+> **Open Source Contribution Hub**
+
+Every great contribution starts with a fork. A platform for managing and discovering open-source projects.
+
+**Tech:** JavaScript · CSS · HTML
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/forkling)
+[![Live](https://img.shields.io/badge/Live_Demo-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://forkling.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 7 — ACHIEVEMENTS
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sumittiwari1302&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)
+
+</div>
+
+<div align="center">
+
+<!-- Profile Views -->
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://komarev.com/ghpvc/?username=sumittiwari1302&label=Profile%20Views&color=5B21B6&style=for-the-badge" alt="Profile Views"/>
+</a>
+
+<!-- Followers -->
+<a href="https://github.com/sumittiwari1302?tab=followers">
+  <img src="https://img.shields.io/github/followers/sumittiwari1302?label=Followers&style=for-the-badge&color=00D9FF" alt="Followers"/>
+</a>
+
+<!-- Stars -->
+<a href="https://github.com/sumittiwari1302?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/sumittiwari1302?label=Stars&style=for-the-badge&color=FFD700" alt="Stars"/>
+</a>
+
+<!-- Repositories -->
+<a href="https://github.com/sumittiwari1302?tab=repositories">
+  <img src="https://img.shields.io/github/repos/sumittiwari1302?label=Repos&style=for-the-badge&color=5B21B6" alt="Repos"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 8 — CONNECT WITH ME
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tiwari-b18701380/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumittiwari1302@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 9 — FUN SECTION
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">😄 Fun Section</h2>
+
+<div align="center">
+
+<!-- Random Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="60%"/>
+
+<br/><br/>
+
+<!-- Random Programming Joke -->
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke" width="50%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 10 — SNAKE CONTRIBUTION ANIMATION
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/sumittiwari1302/sumittiwari1302/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 11 — VISITOR COUNTER
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">👁️ Visitor Counter</h2>
+
+<div align="center">
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=sumittiwari1302&label=Visitors&color=5B21B6&style=for-the-badge)](https://github.com/sumittiwari1302)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<!-- ─────────────────────────────────────────────────────────────
+     SECTION 12 — SUPPORT
+     ───────────────────────────────────────────────────────────── -->
+
+<h2 align="center">⭐ Support</h2>
+
+<div align="center">
+
+If you like my work, consider starring my repositories — it motivates me to build more and contribute to the community!
+
+[![Star](https://img.shields.io/badge/⭐_Star_My_Repos-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/sumittiwari1302?tab=repositories)
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=200&section=footer" width="100%"/>
 
 </div>

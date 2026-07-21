@@ -115,7 +115,7 @@ const sumit = {
 <div align="center">
 
 <a href="https://github.com/sumittiwari1302">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiwari1302&theme=tokyonight&hide_border=true&background=0D1117&stroke=5B21B6&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=sumittiwari1302&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
 
 <a href="https://github.com/sumittiwari1302">
@@ -146,8 +146,6 @@ const sumit = {
 
 I actively contribute to open-source projects on GitHub and enjoy collaborating with developers worldwide.
 My open-source journey includes contributing to multiple repositories, reviewing pull requests, and helping maintain codebases.
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sumittiwari1302&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15)
 
 </div>
 

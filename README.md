@@ -84,11 +84,6 @@ const sumit = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -106,7 +101,6 @@ const sumit = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
@@ -120,23 +114,23 @@ const sumit = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiwari1302&theme=tokyonight&hide_border=true&background=0D1117&stroke=5B21B6&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="49%"/>
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumittiwari1302&theme=tokyonight&hide_border=true&background=0D1117&stroke=5B21B6&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="48%"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumittiwari1302&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B21B6&icon_color=00D9FF&text_color=C9D1D9" width="49%"/>
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&bg_color=0D1117&color=5B21B6&line=00D9FF&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true" width="96%"/>
+</a>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumittiwari1302&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5B21B6&text_color=C9D1D9" width="49%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumittiwari1302&theme=tokyonight" width="49%"/>
-
-</div>
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&bg_color=0D1117&color=5B21B6&line=00D9FF&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true)
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://img.shields.io/github/stars/sumittiwari1302?style=for-the-badge&color=FFD700" alt="Stars"/>
+</a>
+<a href="https://github.com/sumittiwari1302?tab=followers">
+  <img src="https://img.shields.io/github/followers/sumittiwari1302?style=for-the-badge&color=00D9FF" alt="Followers"/>
+</a>
+<a href="https://github.com/sumittiwari1302?tab=repositories">
+  <img src="https://img.shields.io/github/repos/sumittiwari1302?style=for-the-badge&color=5B21B6" alt="Repos"/>
+</a>
 
 </div>
 
@@ -186,7 +180,7 @@ My open-source journey includes contributing to multiple repositories, reviewing
 
 <div align="center">
 
-**Forked & Contributed Repositories**
+**Contributed Repositories**
 
 [![Kepler](https://img.shields.io/badge/Kepler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/Kepler)
 [![MediFlow](https://img.shields.io/badge/MediFlow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/MediFlow)

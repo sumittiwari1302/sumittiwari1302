@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=550&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Tiwari;Frontend+Developer+%7C+Open+Source+Contributor;React+Developer+%7C+CS+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Tiwari;Frontend+Developer+%7C+Open+Source+Contributor;React+Developer+%7C+CS+Student" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -183,6 +183,39 @@ My open-source journey includes contributing to multiple repositories, reviewing
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+**Forked & Contributed Repositories**
+
+[![Kepler](https://img.shields.io/badge/Kepler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/Kepler)
+[![MediFlow](https://img.shields.io/badge/MediFlow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/MediFlow)
+[![DevLink](https://img.shields.io/badge/DevLink-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/devlink)
+[![WorkSphere](https://img.shields.io/badge/WorkSphere-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/WorkSphere)
+[![YuvaHub](https://img.shields.io/badge/YuvaHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/YuvaHub)
+[![CampusConnect](https://img.shields.io/badge/CampusConnect-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/CampusConnect)
+[![Forkling](https://img.shields.io/badge/Forkling-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/forkling)
+[![Cradle](https://img.shields.io/badge/Cradle-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302/cradle)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<h2 align="center">😄 Fun Section</h2>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="60%"/>
+
+<br/><br/>
+
+<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke" width="50%"/>
+
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>

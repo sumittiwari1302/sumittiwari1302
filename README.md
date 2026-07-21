@@ -77,30 +77,30 @@ const sumit = {
 
 **Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -118,11 +118,7 @@ const sumit = {
   <img src="https://streak-stats.vercel.app/?user=sumittiwari1302&theme=tokyonight&hide_border=true" width="48%"/>
 </a>
 
-<a href="https://github.com/sumittiwari1302">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&bg_color=0D1117&color=5B21B6&line=00D9FF&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true&cache=1" width="96%"/>
-</a>
-
-<a href="https://github.com/sumittiwari1302">
+<a href="https://github.com/sumittiwari1302?tab=repositories&sort=stars">
   <img src="https://img.shields.io/github/stars/sumittiwari1302?style=for-the-badge&color=FFD700" alt="Stars"/>
 </a>
 <a href="https://github.com/sumittiwari1302?tab=followers">
@@ -131,6 +127,36 @@ const sumit = {
 <a href="https://github.com/sumittiwari1302?tab=repositories">
   <img src="https://img.shields.io/github/repos/sumittiwari1302?style=for-the-badge&color=5B21B6" alt="Repos"/>
 </a>
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://img.shields.io/github/commits/sumittiwari1302?style=for-the-badge&color=39D353" alt="Commits"/>
+</a>
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://img.shields.io/github/merged-pulls/sumittiwari1302?style=for-the-badge&color=00D9FF" alt="PRs Merged"/>
+</a>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=60&section=separator" width="100%"/>
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+
+I'm passionate about contributing to open-source projects and building things that matter. Here's a snapshot of my recent GitHub activity — contributions, commits, pull requests, and more.
+
+<br/>
+
+<a href="https://github.com/sumittiwari1302">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&bg_color=0D1117&color=5B21B6&line=00D9FF&point=FFFFFF&area=true&area_color=1E3A5F&hide_border=true" width="95%"/>
+</a>
+
+<br/>
+
+![GitHub Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&theme=redical&hide_border=true&height=200&width=95%)
 
 </div>
 
@@ -158,9 +184,9 @@ My open-source journey includes contributing to multiple repositories, reviewing
 <td align="center"><b>LeapX Pune</b></td>
 <td align="left">
 
-[![Event-Registration](https://img.shields.io/badge/Event--Registration--Platform--2-5B21B6?style=flat-square)](https://github.com/LeapX-Pune/Event-Registration-Platform-2)
-[![Weather-Dashboard](https://img.shields.io/badge/Weather--News--Aggregator--Dashboard-5B21B6?style=flat-square)](https://github.com/LeapX-Pune/Weather-News-Aggregator-Dashboard)
-[![Trello-Board](https://img.shields.io/badge/Trello--Style--Project--Management--Board-5B21B6?style=flat-square)](https://github.com/LeapX-Pune/Trello-Style-Project-Management-Board)
+[![Event-Registration](https://img.shields.io/badge/Event--Registration--Platform--2-5B21B6?style=for-the-badge)](https://github.com/LeapX-Pune/Event-Registration-Platform-2)
+[![Weather-Dashboard](https://img.shields.io/badge/Weather--News--Aggregator--Dashboard-5B21B6?style=for-the-badge)](https://github.com/LeapX-Pune/Weather-News-Aggregator-Dashboard)
+[![Trello-Board](https://img.shields.io/badge/Trello--Style--Project--Management--Board-5B21B6?style=for-the-badge)](https://github.com/LeapX-Pune/Trello-Style-Project-Management-Board)
 
 </td>
 </tr>
@@ -168,9 +194,9 @@ My open-source journey includes contributing to multiple repositories, reviewing
 <td align="center"><b>OJT Capstone Projects</b></td>
 <td align="left">
 
-[![Live-News-Feed](https://img.shields.io/badge/Live--News--Feed-5B21B6?style=flat-square)](https://github.com/OJT-Capstone-Projects/Live-News-Feed)
-[![Github-Explorer](https://img.shields.io/badge/Github--Developer--Explorer-5B21B6?style=flat-square)](https://github.com/OJT-Capstone-Projects/Github-developer-explorer)
-[![Team-Portfolio](https://img.shields.io/badge/Team--Agency--Portfolio-5B21B6?style=flat-square)](https://github.com/OJT-Capstone-Projects/Team_agency_portfolio)
+[![Live-News-Feed](https://img.shields.io/badge/Live--News--Feed-5B21B6?style=for-the-badge)](https://github.com/OJT-Capstone-Projects/Live-News-Feed)
+[![Github-Explorer](https://img.shields.io/badge/Github--Developer--Explorer-5B21B6?style=for-the-badge)](https://github.com/OJT-Capstone-Projects/Github-developer-explorer)
+[![Team-Portfolio](https://img.shields.io/badge/Team--Agency--Portfolio-5B21B6?style=for-the-badge)](https://github.com/OJT-Capstone-Projects/Team_agency_portfolio)
 
 </td>
 </tr>
@@ -202,10 +228,6 @@ My open-source journey includes contributing to multiple repositories, reviewing
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" width="60%"/>
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Joke" width="50%"/>
 
 </div>
 

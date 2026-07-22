@@ -19,7 +19,7 @@
 <a href="https://github.com/sumittiwari1302">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="mailto:sumittiwari1302@gmail.com">
+<a href="mailto:sumittiwari0307@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 

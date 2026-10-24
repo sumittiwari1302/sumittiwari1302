@@ -7,6 +7,7 @@
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/sumittiwari1302?label=Followers&style=flat&color=4ADE80)](https://github.com/sumittiwari1302?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/sumittiwari1302?label=Stars&style=flat&color=F9C74F)](https://github.com/sumittiwari1302?tab=stars)
 [![Profile Views](https://komarev.com/ghpvc/?username=sumittiwari1302&color=4ADE80&style=flat&label=Profile+Views)](https://github.com/sumittiwari1302)
 
 <br clear="both">
@@ -40,10 +41,11 @@ const sumit = {
   role: "Event Coordinator @ RIFT",
   focus: ["Frontend (React, JS, TS, Tailwind)", "Open Source", "AI/ML", "Cybersecurity"],
   certifications: ["IBM SkillsBuild: JavaScript"],
-  achievements: ["3rd Place - PW IOI Web Dev Kick Start"],
+  achievements: ["3rd Place - PW IOI Web Dev Kick Start", "ECSoC'26 Rank 46"],
   connect: {
     github: "sumittiwari1302",
-    linkedin: "https://linkedin.com/in/sumit-tiwari-b18701380"
+    linkedin: "https://linkedin.com/in/sumit-tiwari-b18701380",
+    email: "sumittiwari1302@gmail.com"
   }
 };
 ```
@@ -56,16 +58,16 @@ const sumit = {
 
 ## Tech Stack
 
+**Programming Languages**  
+[![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev) [![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev) [![Python](https://skillicons.dev/icons?i=python&theme=dark)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev)
+
 **Frontend**  
-[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev) [![TypeScript](https://skillicons.dev/icons?i=typescript&theme=dark)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) [![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev) [![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev) [![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)](https://skillicons.dev) [![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev) [![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
 
-**Database**  
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev) [![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://skillicons.dev)
+**Backend & Databases**  
+[![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark)](https://skillicons.dev) [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 
-**Languages**  
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev) [![C](https://skillicons.dev/icons?i=c&theme=dark)](https://skillicons.dev) [![C++](https://skillicons.dev/icons?i=cpp&theme=dark)](https://skillicons.dev)
-
-**Tools**  
+**Tools & Version Control**  
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev) [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://skillicons.dev) [![VS Code](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev) [![Figma](https://skillicons.dev/icons?i=figma&theme=dark)](https://skillicons.dev)
 
 ---
@@ -106,6 +108,11 @@ const sumit = {
 ---
 
 ## Open Source Contributions
+
+### ECSoC'26 2026
+**Open Source Contributor** — Ranked **46th** in ECSoC'26  
+Authored and merged **98 pull requests** across **14 repositories**, delivering features, bug fixes, accessibility improvements, UI enhancements, and documentation updates.  
+Collaborated with maintainers using Git, React, JavaScript, HTML, and CSS; participated in code reviews and resolved review feedback while maintaining high code quality.
 
 ### LeapX Pune
 | Repository | Description |
@@ -151,17 +158,23 @@ const sumit = {
 </tr>
 </table>
 
+---
+
 ## Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&theme=github-compact&hide_border=true&area=true&color=4ADE80&point=4ADE80&line=4ADE80" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumittiwari1302&theme=react&hide_border=true&area=true&color=4ADE80&point=4ADE80&line=4ADE80" alt="Contribution Activity Graph" />
 
 ---
 
 ## Connect With Me
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-tiwari-b18701380/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumittiwari1302)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumittiwari1302@gmail.com)
+
+</div>
 
 ---
 

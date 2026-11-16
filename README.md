@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=250&section=header&text=Sumit%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20React%20Developer%20%7C%20CS%20Student&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=250&section=header&text=Sumit%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20React%20Developer%20%7C%20CS%20Student&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Tiwari;Frontend+Developer+%7C+Open+Source+Contributor;React+Developer+%7C+CS+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%F0%9F%91%8B+Hi%2C+I'm+Sumit+Tiwari;Full-Stack+Developerr+%7C+Open+Source+Contributor;React+Developer+%7C+CS+Student" alt="Typing SVG" />
 </a>
 
 <br/>

@@ -1,4 +1,4 @@
-
+ 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A5F,100:5B21B6&height=240&section=header&text=Sumit%20Tiwari&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Open%20Source%20Contributor%20•%20AI%20Explorer&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
@@ -11,7 +11,7 @@
 </a>
 
 <br/><br/>
-
+ 
 <a href="https://komarev.com/ghpvc/?username=sumittiwari1302">
   <img src="https://komarev.com/ghpvc/?username=sumittiwari1302&label=Profile%20Views&color=5B21B6&style=for-the-badge&base=100" alt="Profile Views"/>
 </a>
